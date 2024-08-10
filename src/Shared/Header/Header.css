@@ -1,0 +1,24 @@
+header a {
+    color: white!important;
+    text-decoration: none;
+    margin-right: 25px;
+}
+.btn-link {
+    background-color: white;
+    padding: 7px 20px;
+    border-radius: 25px;
+    color: #0d6efd !important;
+    text-decoration: none !important;
+    font-weight: 500 !important;
+}
+ .navbar-nav {
+     align-items: center;
+ }
+ .user-name {
+    color: white;
+    margin: 0 8px 0 0px;
+    font-weight: 700;
+}
+.app-logo {
+    height: 32px;
+}
